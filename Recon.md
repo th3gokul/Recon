@@ -1,12 +1,12 @@
 # Recon Tools For Web Application Pentesting
 
-#proxy
+# proxy
 
 1.Burpsuite
 
 2.Zap proxy
 
-#Subdomain
+# Subdomain
 
 1.subfinder
 
@@ -18,7 +18,7 @@
 
 5.sublist3r
 
-#Webspidering
+# Webspidering
 
 1.gospider
 
@@ -32,7 +32,7 @@
 
 6.paramspider
 
-#Directory/Fuzzing
+# Directory/Fuzzing
 
 1.ffuf
 
@@ -42,7 +42,7 @@
 
 4.dirbuster
 
-#fingerprinting
+# Fingerprinting
 
 1.wappalyzer
 
@@ -54,7 +54,7 @@
 
 5.wafw0f
 
-#Vulnerability
+# Vulnerability
 
 1-nuclei
 
@@ -62,7 +62,7 @@
 
 3.nikto
 
-#Email
+# Email
 
 1.mxtoolbox
 
@@ -72,7 +72,7 @@
 
 4.thunderbird
 
-#Exploit
+# Exploit
 
 1.searchsploit
 
@@ -84,19 +84,19 @@
 
 2.gitsecrets
 
-#API
+# API
 
 1.postman
 
 2.graphqlmap
 
-#payloads/wordlists
+# Payloads/wordlists
 
 1.swisskeyrepo
 
 2.seclists
 
-#ports
+# Ports
 
 1.nmap
 
@@ -108,13 +108,13 @@
 
 5.hackertarget
 
-#ssl
+# ssl
 
 1.sslscan
 
 2.sslhopper
 
-#SearchEngines
+# SearchEngines
 
 1.shodan
 
@@ -124,7 +124,7 @@
 
 4.google
 
-#MISC
+# MISC
 
 1.httpx
 
